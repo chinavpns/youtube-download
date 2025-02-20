@@ -318,9 +318,9 @@ YouTube下载速度慢，这可能是很多人都遇到过的烦心事。特别�
 
 * <a href="https://github.com/chinavpns/router-vpn">路由器翻墙</a>和<a href="https://github.com/chinavpns/router-vpn">路由器VPN推荐</a>：本文将详细介绍路由器翻墙的优缺点，并提供华为路由器、小米路由器和TP-Link路由器的翻墙教程。此外，我们还会为大家推荐几款最好用的路由器VPN和翻墙路由器，帮助你轻松实现网络自由。
 
-* <a href="https://github.com/chinavpns/cheapvpn.github.io">便宜VPN</a>：2025年中国好用的便宜VPN推荐！本文会为大家推荐几款中国便宜好用的VPN软件，它们在安全性、连接速度、翻墙稳定性、兼容性、客户支持等方面表现优异，可以帮助你在中国自由上网。
+* <a href="https://github.com/chinavpns/cheapvpn.github.io">便宜VPN推荐</a>：2025年中国好用的便宜VPN推荐！本文会为大家推荐几款中国便宜好用的VPN软件，它们在安全性、连接速度、翻墙稳定性、兼容性、客户支持等方面表现优异，可以帮助你在中国自由上网。
 
-* <a href="https://github.com/chinavpns/freevpn.github.io">免费VPN</a>：2025年最好用的免费VPN推荐！本文将会给大家推荐几款在中国国内可用的免费VPN加速器（包含大陆永久免费VPN）和提供30天免费试用的顶级付费VPN软件！
+* <a href="https://github.com/chinavpns/freevpn.github.io">免费VPN推荐</a>：2025年最好用的免费VPN推荐！本文将会给大家推荐几款在中国国内可用的免费VPN加速器（包含大陆永久免费VPN）和提供30天免费试用的顶级付费VPN软件！
 
 * <a href="https://github.com/chinavpns/expressvpn">ExpressVPN中国评测</a>：ExpressVPN怎么样？ExpressVPN国内能用吗？ExpressVPN在中国稳定吗？ExpressVPN连不上网怎么办？ExpressVPN如何申请退款？接下来，本文将从不同角度对ExpressVPN进行全面解析，深入解答这些常见问题，帮助你更清楚地了解这款VPN工具的实际表现！
 
