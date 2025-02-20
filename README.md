@@ -240,7 +240,7 @@ YouTube下载速度慢，这可能是很多人都遇到过的烦心事。特别�
 
 * 网络连接问题
 
-下载速度慢最常见的原因就是网络问题。如果你正在使用<a href="https://chinavpns.github.io/">翻墙软件</a>，首先要检查是否选择了合适的服务器节点。建议使用<a href="https://wallvpn.com/go/expressvpn/">ExpressVPN(30天免费试用）</a>这类稳定的付费VPN，并选择日本、韩国或新加坡这些距离较近的节点。同时要避免使用<a href="https://github.com/chinavpns/freevpn.github.io">免费VPN</a>，因为它们通常都有严格的速度限制，而且稳定性也较差。如果发现当前节点速度不理想，可以尝试切换到其他节点。
+下载速度慢最常见的原因就是网络问题。如果你正在使用<a href="https://chinavpns.github.io/">翻墙软件</a>，首先要检查是否选择了合适的服务器节点。建议使用<a href="https://wallvpn.com/go/expressvpn/">ExpressVPN(30天免费试用）</a>这类稳定的付费VPN，并选择日本、韩国或新加坡这些距离较近的节点。同时要避免使用免费VPN，因为它们通常都有严格的速度限制，而且稳定性也较差。如果发现当前节点速度不理想，可以尝试切换到其他节点。
 
 * 下载工具选择
 
