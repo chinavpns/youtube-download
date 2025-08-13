@@ -254,51 +254,27 @@ FastestTube是一款以“快速下载”著称的插件，几乎兼容所有主
 
 ## Youtube下载方法四：通过修改Youtube视频链接
 
-### 1，SSYouTube.com
+* SSYouTube.com：SSYouTube.com是一种非常简单的下载方式，只需在YouTube视频链接的“youtube”前面加上“ss”，比如原网址为youtube.com/watch?v=xxxx，改成ssyoutube.com/watch?v=xxxx即可跳转到下载页面。这个方法不需要安装任何工具，适合临时快速下载YouTube视频的用户。
 
-SSYouTube.com是一种非常简单的下载方式，只需在YouTube视频链接的“youtube”前面加上“ss”，比如原网址为youtube.com/watch?v=xxxx，改成ssyoutube.com/watch?v=xxxx即可跳转到下载页面。这个方法不需要安装任何工具，适合临时快速下载YouTube视频的用户。
-
-### 2，YouTubePP.com
-
-YouTubePP.com则是另一种变体，只要在YouTube链接后面加上“pp”，像youtubepp.com/watch?v=xxxx，页面会自动跳转到下载服务。这个方法界面简明，适用于不想折腾、只图快捷的用户。
-
-****
+* YouTubePP.com：YouTubePP.com则是另一种变体，只要在YouTube链接后面加上“pp”，像youtubepp.com/watch?v=xxxx，页面会自动跳转到下载服务。这个方法界面简明，适用于不想折腾、只图快捷的用户。
 
 ## Youtube下载方法五：通过特殊的命令行工具
 
-### 1，youtube-dl
+* youtube-dl：youtube-dl是一款用Python编写的开源经典工具，也是很多视频下载器的“底层引擎”。它支持直接在命令行输入链接，一键下载YouTube及多家主流视频网站的视频和音频。功能非常强大，支持批量下载、字幕提取、自定义格式等，适合喜欢用命令行操作、追求极致自定义的用户。
 
-youtube-dl是一款用Python编写的开源经典工具，也是很多视频下载器的“底层引擎”。它支持直接在命令行输入链接，一键下载YouTube及多家主流视频网站的视频和音频。功能非常强大，支持批量下载、字幕提取、自定义格式等，适合喜欢用命令行操作、追求极致自定义的用户。
+* yt-dlp：yt-dlp是youtube-dl的活跃分支，被认为是目前最主流、更新最快的视频下载命令行工具。它继承了youtube-dl的全部功能，还加入了解析付费内容、AES加密、字幕增强等更多特性，支持网站数目也更多。不仅兼容老命令，参数设计更灵活，适合追求新功能和高兼容性的用户。
 
-### 2，yt-dlp
+* youtube-dl-gui：youtube-dl-gui是youtube-dl的图形界面版，保留了原有强大功能，但通过可视化窗口大大降低了上手门槛。用户只需粘贴链接、选择格式和保存路径，就能一键批量下载视频，非常适合不熟悉命令行但又想体验专业工具的用户。
 
-yt-dlp是youtube-dl的活跃分支，被认为是目前最主流、更新最快的视频下载命令行工具。它继承了youtube-dl的全部功能，还加入了解析付费内容、AES加密、字幕增强等更多特性，支持网站数目也更多。不仅兼容老命令，参数设计更灵活，适合追求新功能和高兼容性的用户。
+* Pytube：Pytube是一个专门为Python开发者设计的YouTube视频下载库，轻量级、易用。通过简单的代码调用即可实现视频或音频的下载、批量处理、流分辨率选择等功能。适合希望在自己的Python项目中集成YouTube下载能力的用户。
 
-### 3，youtube-dl-gui
+* Pafy：Pafy同样是用Python开发的YouTube视频下载库，它的底层依赖youtube-dl。除了视频和音频下载，还能获取视频元数据、流信息等，适合需要更深入处理YouTube内容的开发者和数据分析者。
 
-youtube-dl-gui是youtube-dl的图形界面版，保留了原有强大功能，但通过可视化窗口大大降低了上手门槛。用户只需粘贴链接、选择格式和保存路径，就能一键批量下载视频，非常适合不熟悉命令行但又想体验专业工具的用户。
+* You-Get：You-Get是中国开发者维护的命令行下载工具，支持YouTube、Bilibili、优酷、腾讯等国内外众多主流视频网站。它可以直接解析和下载视频、音频、弹幕，甚至支持部分直播流，命令行参数简洁，非常适合中文用户或需要多平台支持的用户。
 
-### 4，Pytube
+* Streamlink：Streamlink是一款专注于直播流内容的命令行工具，能将YouTube、Twitch等平台的直播流解析后直接传递给本地播放器（如VLC）或保存为本地文件。非常适合喜欢录制或观看高质量直播的用户。
 
-Pytube是一个专门为Python开发者设计的YouTube视频下载库，轻量级、易用。通过简单的代码调用即可实现视频或音频的下载、批量处理、流分辨率选择等功能。适合希望在自己的Python项目中集成YouTube下载能力的用户。
-
-### 5，Pafy
-
-Pafy同样是用Python开发的YouTube视频下载库，它的底层依赖youtube-dl。除了视频和音频下载，还能获取视频元数据、流信息等，适合需要更深入处理YouTube内容的开发者和数据分析者。
-
-### 6，You-Get
-
-You-Get是中国开发者维护的命令行下载工具，支持YouTube、Bilibili、优酷、腾讯等国内外众多主流视频网站。它可以直接解析和下载视频、音频、弹幕，甚至支持部分直播流，命令行参数简洁，非常适合中文用户或需要多平台支持的用户。
-
-### 7，Streamlink
-
-Streamlink是一款专注于直播流内容的命令行工具，能将YouTube、Twitch等平台的直播流解析后直接传递给本地播放器（如VLC）或保存为本地文件。非常适合喜欢录制或观看高质量直播的用户。
-
-### 8，gallery-dl
-
-gallery-dl是一款面向图片和视频的通用下载工具，支持YouTube、Instagram、Pixiv、Twitter等多平台的批量内容下载。命令行调用灵活，配置丰富，适合需要批量抓取各类媒体资源的收藏控和内容整理者。
-
-****
+* gallery-dl：gallery-dl是一款面向图片和视频的通用下载工具，支持YouTube、Instagram、Pixiv、Twitter等多平台的批量内容下载。命令行调用灵活，配置丰富，适合需要批量抓取各类媒体资源的收藏控和内容整理者。
 
 ## 2025年Youtube视频下载相关的常见问题
 
