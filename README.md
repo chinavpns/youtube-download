@@ -28,7 +28,7 @@ OK，以上三款便是目前为数不多能在中国大陆稳定使用的翻墙
 
 ![Youtube视频下载-银河录像局-Youtube合租](https://raw.githubusercontent.com/chinavpns/youtube-download/refs/heads/main/image/Youtube%E8%A7%86%E9%A2%91%E4%B8%8B%E8%BD%BD-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-Apple%20ID%E5%B8%90%E5%8F%B7.png)
 
-**重要提示（二）**：如果你想在iOS苹果手机或Android安卓手机上下载YouTube客户端，也可以通过“**<a href="https://wallvpn.com/go/nf-video/">银河录像局</a>**”这个平台购买一个**美区Apple ID账号**（15元/个）或**Google账号**（20元/个），这样就能自由下载YouTube iOS客户端和YouTube Android客户端了。
+**重要提示（二）**：如果你正身处中国大陆，并且想在iOS苹果手机或者Android安卓手机等移动设备上下载YouTube客户端的话，那么也可以通过“**<a href="https://wallvpn.com/go/nf-video/">银河录像局</a>**”这个平台购买一个**美区Apple ID账号**（15元/个）或**Google账号**（20元/个），这样就能自由下载YouTube iOS客户端和YouTube Android客户端了。
 
 ![Youtube视频下载-银河录像局-Apple ID帐号](https://raw.githubusercontent.com/chinavpns/youtube-download/refs/heads/main/image/Youtube%E8%A7%86%E9%A2%91%E4%B8%8B%E8%BD%BD-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-Youtube%E5%90%88%E7%A7%9F.png)
 
