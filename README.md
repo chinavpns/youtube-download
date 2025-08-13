@@ -32,6 +32,16 @@ OK，以上三款便是目前为数不多能在中国大陆稳定使用的翻墙
 
 ![Youtube视频下载-银河录像局-Apple ID帐号](https://raw.githubusercontent.com/chinavpns/youtube-download/refs/heads/main/image/Youtube%E8%A7%86%E9%A2%91%E4%B8%8B%E8%BD%BD-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-Youtube%E5%90%88%E7%A7%9F.png)
 
+<blockquote>
+<h2 id="本文内容导航">本文内容导航</h2>
+<h3 id="1-youtube下载方法一通过youtube视频下载软件">1. <a href="#youtube下载方法一通过youtube视频下载软件">方法一：通过Youtube视频下载软件</a></h3>
+<h3 id="2-youtube下载方法二通过youtube在线下载网站">2. <a href="#youtube下载方法二通过youtube在线下载网站">方法二：通过Youtube在线下载网站</a></h3>
+<h3 id="3-youtube下载方法三通过youtube视频下载插件">3. <a href="#youtube下载方法三通过youtube视频下载插件">方法三：通过YouTube视频下载插件</a></h3>
+<h3 id="4-youtube下载方法四通过修改youtube视频链接">4. <a href="#youtube下载方法四通过修改youtube视频链接">方法四：通过修改Youtube视频链接</a></h3>
+<h3 id="5-youtube下载方法五通过特殊的命令行工具">5. <a href="#youtube下载方法五通过特殊的命令行工具">方法五：通过特殊的命令行工具</a></h3>
+<h3 id="6-2025年youtube视频下载相关的常见问题">6. <a href="#2025年youtube视频下载相关的常见问题">2025年油管视频下载相关常见问题</a></h3>
+</blockquote>
+
 ## Youtube下载方法一：通过Youtube视频下载软件
 
 ### 1，4K Video Downloader
