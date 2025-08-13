@@ -36,16 +36,6 @@ OK，以上三款便是目前为数不多能在中国大陆稳定使用的翻墙
 
 OK，接下来我们将为大家系统介绍四种常用的YouTube视频下载方法，并详细说明每种方法的优缺点。此外，针对每种YTB下载方法，我们还会分别推荐几款目前最受欢迎的YouTube视频下载工具，方便大家根据实际需求进行选择。
 
-<blockquote>
-<h2 id="本文内容导航">本文内容导航</h2>
-<h3 id="1-youtube下载方法一通过youtube视频下载软件">1. <a href="#youtube下载方法一通过youtube视频下载软件">方法一：通过Youtube视频下载软件</a></h3>
-<h3 id="2-youtube下载方法二通过youtube在线下载网站">2. <a href="#youtube下载方法二通过youtube在线下载网站">方法二：通过Youtube在线下载网站</a></h3>
-<h3 id="3-youtube下载方法三通过youtube视频下载插件">3. <a href="#youtube下载方法三通过youtube视频下载插件">方法三：通过YouTube视频下载插件</a></h3>
-<h3 id="4-youtube下载方法四通过修改youtube视频链接">4. <a href="#youtube下载方法四通过修改youtube视频链接">方法四：通过修改Youtube视频链接</a></h3>
-<h3 id="5-youtube下载方法五通过特殊的命令行工具">5. <a href="#youtube下载方法五通过特殊的命令行工具">方法五：通过特殊的命令行工具</a></h3>
-<h3 id="6-2025年youtube视频下载相关的常见问题">6. <a href="#2025年youtube视频下载相关的常见问题">2025年油管视频下载相关常见问题</a></h3>
-</blockquote>
-
 ## 如何下载YouTube视频？
 
 现如今，下载YouTube视频的方法非常多样，无论你使用的是电脑还是手机，都能找到合适的解决方案。下面为大家介绍四种常用的YouTube视频下载方式，每种方法各有优缺点，大家可以根据自己的需求进行选择。
@@ -282,15 +272,7 @@ FastestTube是一款以“快速下载”著称的插件，几乎兼容所有主
 * 适用：Chrome、Firefox、Safari等
 * 官网：https://kwizzu.com/
 
-****
-
-## Youtube下载方法四：通过修改Youtube视频链接
-
-* SSYouTube.com：SSYouTube.com是一种非常简单的下载方式，只需在YouTube视频链接的“youtube”前面加上“ss”，比如原网址为youtube.com/watch?v=xxxx，改成ssyoutube.com/watch?v=xxxx即可跳转到下载页面。这个方法不需要安装任何工具，适合临时快速下载YouTube视频的用户。
-
-* YouTubePP.com：YouTubePP.com则是另一种变体，只要在YouTube链接后面加上“pp”，像youtubepp.com/watch?v=xxxx，页面会自动跳转到下载服务。这个方法界面简明，适用于不想折腾、只图快捷的用户。
-
-## Youtube下载方法五：通过特殊的命令行工具
+## Youtube下载方法四：通过特殊的命令行工具
 
 * youtube-dl：youtube-dl是一款用Python编写的开源经典工具，也是很多视频下载器的“底层引擎”。它支持直接在命令行输入链接，一键下载YouTube及多家主流视频网站的视频和音频。功能非常强大，支持批量下载、字幕提取、自定义格式等，适合喜欢用命令行操作、追求极致自定义的用户。
 
