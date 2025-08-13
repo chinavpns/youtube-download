@@ -142,8 +142,6 @@ Gihosoft TubeGet是一款支持主流视频网站高清视频下载的专业工�
 
 * 官网：https://www.gihosoft.com/
 
-****
-
 ## Youtube下载方法二：通过Youtube在线下载网站
 
 ### 1，Y2mate.com
@@ -217,8 +215,6 @@ Video Grabber是一款在线工具，支持多种视频网站的视频下载和�
 9xbuddy.com支持多平台视频下载，兼容YouTube、Dailymotion、Facebook等网站。它能自动侦测视频信息并生成多格式下载链接，界面直观，适合初学者和老用户。
 
 * 网址：https://9xbuddy.com/
-
-****
 
 ## Youtube下载方法三：通过YouTube视频下载插件
 
