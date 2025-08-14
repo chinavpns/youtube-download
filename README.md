@@ -254,21 +254,33 @@ Video Grabber是一款功能齐全的在线下载工具，支持主流视频网�
 
 ## Youtube下载方法三：通过YouTube视频下载插件
 
-### 1. <a href="https://www.downloadhelper.net/">Video DownloadHelper</a>（适用于Chrome、Firefox）
+### 1. Video DownloadHelper
 
 Video DownloadHelper是一款知名度非常高的浏览器插件，兼容Chrome和Firefox。它不仅支持YouTube，还能解析和下载Facebook、Vimeo等多个网站的视频和音频。插件会自动侦测网页上的媒体资源，用户只需点击工具栏按钮即可一键下载，支持多种分辨率和格式。操作简单，适合需要多平台下载的用户。
 
-### 2. <a href="https://addoncrop.com/">Addoncrop YouTube Downloader</a>（适用于Chrome）
+* 插件下载地址：https://www.downloadhelper.net/
+* 适用于：Chrome、Firefox
+
+### 2. Addoncrop YouTube Downloader
 
 Addoncrop YouTube Downloader是一款功能丰富的扩展，支持YouTube视频、音频、字幕下载，可以批量处理播放列表。需要配合CrossPilot在Chrome上安装使用，整体体验流畅，适合追求一站式下载解决方案的用户。
 
-### 3. <a href="https://www.yourvideofile.org/">Easy YouTube Video Downloader Express</a>（适用于Firefox）
+* 插件下载地址：https://addoncrop.com/
+* 适用于：Chrome
+
+### 3. Easy YouTube Video Downloader Express
 
 Easy YouTube Video Downloader Express是一款专门为YouTube设计的插件，支持一键下载MP4、MP3等多种格式。它的专业版支持1080P高清视频下载，还能提取音频。插件会在YouTube播放页面直接显示下载按钮，使用体验非常直接，适合追求高画质和音频提取的用户。
 
-### 4. <a href="https://kwizzu.com/">FastestTube</a>（适用于Chrome、Firefox、Safari等）
+* 插件下载地址：https://www.yourvideofile.org/
+* 适用于：Firefox
+
+### 4. FastestTube
 
 FastestTube是一款以“快速下载”著称的插件，几乎兼容所有主流浏览器。安装后会在YouTube页面下方出现下载按钮，支持多种分辨率选择。插件小巧，运行流畅，适合只想简单快速保存视频的用户。
+
+* 插件下载地址：https://kwizzu.com/
+* 适用于：Chrome、Firefox、Safari等
 
 ## Youtube下载方法四：通过特殊的命令行工具
 
