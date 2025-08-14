@@ -330,11 +330,11 @@ gallery-dl是一款支持图片和视频批量下载的命令行工具，兼容Y
 
 ### 方法一：使用专业的YouTube下载软件
 
-如果你是Android安卓手机用户，我们建议你直接选择“<a href="https://wallvpn.com/go/4k-download/">4K Video Downloader</a>”这款专业的YouTube视频下载软件。4K Video Downloader不仅支持多线程加速，可以快速下载高清视频，还支持下载整个播放列表和视频自带的字幕。而且该软件界面简洁明了，使用门槛低，适合需要频繁下载、对画质有要求的用户。
+如果你是**Android安卓手机**用户，我们建议你直接选择“**<a href="https://wallvpn.com/go/4k-download/">4K Video Downloader</a>**”这款专业的YouTube视频下载软件。4K Video Downloader不仅支持多线程加速，可以快速下载高清视频，还支持下载整个播放列表和视频自带的字幕。而且该软件界面简洁明了，使用门槛低，适合需要频繁下载、对画质有要求的用户。
 
-如果你是iOS苹果手机用户，那么可以尝试使用“Airy”这款专业的YouTube视频下载软件。Airy不仅提供专用的iOS客户端，而且针对YouTube视频下载做了优化，支持多种分辨率选择和字幕下载，使用体验也非常流畅。
+如果你是**iOS苹果手机**用户，那么可以尝试使用“Airy”这款专业的YouTube视频下载软件。Airy不仅提供专用的iOS客户端，而且针对YouTube视频下载做了优化，支持多种分辨率选择和字幕下载，使用体验也非常流畅。
 
-**重要提示**：安卓手机用户若想从Google Play商店下载APP软件，需要先获取一个Google帐号。而中国大陆的苹果手机用户若想下载国外软件，则必须先获取一个美区Apple ID帐号（受政策限制）。如果你没有“Google帐号”或“美区Apple ID帐号”，可以通过“**<a href="https://wallvpn.com/go/nf-video/">银河录像局</a>**”这个平台直接购买一个现成的账号。
+**重要提示**：安卓手机用户若想从Google Play商店下载APP软件，需要先获取一个Google帐号。而中国大陆的苹果手机用户若想下载国外软件，则必须先获取一个**美区Apple ID帐号**（受政策限制）。如果你没有“Google帐号”或“美区Apple ID帐号”，可以通过“**<a href="https://wallvpn.com/go/nf-video/">银河录像局</a>**”这个平台直接购买一个现成的账号。
 
 ![Youtube视频下载-银河录像局-Apple ID帐号](https://raw.githubusercontent.com/chinavpns/youtube-download/refs/heads/main/image/Youtube%E8%A7%86%E9%A2%91%E4%B8%8B%E8%BD%BD-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-Apple%20ID%E5%B8%90%E5%8F%B7.png)
 
@@ -346,11 +346,11 @@ gallery-dl是一款支持图片和视频批量下载的命令行工具，兼容Y
 
 ### 方法三：合租YouTube Premium会员
 
-对于追求高画质、无广告和更官方体验的用户，可以选择通过“**<a href="https://wallvpn.com/go/nf-video/">银河录像局</a>**”合租YouTube Premium会员，然后用YouTube官方App直接进行离线下载。这种方式不仅更安全可靠，而且价格非常便宜（**每月仅需12元**），还能享受YouTube Premium会员专属的高清画质、后台播放和无广告体验。
+如果你需要经常下载YouTube视频，或者追求高画质、无广告和更官方的使用体验，我们建议你直接在手机上下载YouTube客户端，并通过“**<a href="https://wallvpn.com/go/nf-video/">银河录像局</a>**”合租YouTube Premium会员，然后使用YouTube官方App进行离线下载。这种方式不仅更加安全可靠，而且价格非常实惠（**每月仅需12元**），还能享受YouTube Premium会员专属的高清画质、后台播放和无广告体验。
+
+注意：中国大陆用户若想在手机上下载YouTube客户端，也需要先通过“**<a href="https://wallvpn.com/go/nf-video/">银河录像局</a>”获取一个“Google帐号”或“美区Apple ID帐号”！
 
 ![Youtube视频下载-银河录像局-Youtube合租](https://raw.githubusercontent.com/chinavpns/youtube-download/refs/heads/main/image/Youtube%E8%A7%86%E9%A2%91%E4%B8%8B%E8%BD%BD-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-Youtube%E5%90%88%E7%A7%9F.png)
-
-注意：中国大陆网民若想在手机上下载YouTube客户端，也需要先通过“**<a href="https://wallvpn.com/go/nf-video/">银河录像局</a>**”获取一个“Google帐号”或“美区Apple ID帐号”才行！
 
 ## YouTube视频下载慢怎么办？
 
