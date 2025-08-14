@@ -328,23 +328,23 @@ gallery-dl是一款支持图片和视频批量下载的命令行工具，兼容Y
 
 若想在手机上下载YouTube视频，其实有多种方式可以选择。根据不同的使用需求和操作习惯，下面详细介绍三种主流且实用的方法，帮助你灵活选择最适合自己的方案。
 
-#### 方法一：安装专业的YouTube下载软件
+### 方法一：安装专业的YouTube下载软件
 
 如果你经常需要用手机批量下载YouTube视频，或者需要管理高清视频和字幕，推荐直接安装专门的YouTube下载APP，这样操作会更加高效稳定。
 
-* 如果你使用的是Android安卓手机，可以直接通过Google Play商店下载安装“<a href="https://wallvpn.com/go/4k-download/">4K Video Downloader</a>”这款YouTube视频下载软件的Android客户端。4K Video Downloader支持多线程加速，可以快速下载高清视频，还支持下载整个播放列表和视频自带的字幕。软件界面简洁明了，使用门槛低，适合需要频繁下载、对画质有要求的用户。
+如果你使用的是Android安卓手机，可以直接通过Google Play商店下载安装“<a href="https://wallvpn.com/go/4k-download/">4K Video Downloader</a>”这款YouTube视频下载软件的Android客户端。4K Video Downloader支持多线程加速，可以快速下载高清视频，还支持下载整个播放列表和视频自带的字幕。软件界面简洁明了，使用门槛低，适合需要频繁下载、对画质有要求的用户。
 
-* 如果你使用的是iOS苹果手机，可以通过苹果App Store（注意：需要使用美区Apple ID帐号）下载“Airy”这款YouTube视频下载软件的iOS客户端。Airy专门针对YouTube视频下载做了优化，支持多种分辨率选择和字幕下载，使用体验也非常流畅。
+如果你使用的是iOS苹果手机，可以通过苹果App Store（注意：需要使用美区Apple ID帐号）下载“Airy”这款YouTube视频下载软件的iOS客户端。Airy专门针对YouTube视频下载做了优化，支持多种分辨率选择和字幕下载，使用体验也非常流畅。
 
 **重要提示**：如果你没有“Google帐号”或没有“美区Apple ID帐号”，可以通过“**<a href="https://wallvpn.com/go/nf-video/">银河录像局</a>**”这个平台直接购买一个现成的“Google帐号”或“美区Apple ID帐号”。
 
 ![Youtube视频下载-银河录像局-Apple ID帐号](https://raw.githubusercontent.com/chinavpns/youtube-download/refs/heads/main/image/Youtube%E8%A7%86%E9%A2%91%E4%B8%8B%E8%BD%BD-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-Apple%20ID%E5%B8%90%E5%8F%B7.png)
 
-#### 方法二：使用YouTube在线下载网站
+### 方法二：使用YouTube在线下载网站
 
 对于大多数只需偶尔下载YouTube视频的用户来说，在线下载网站是最为方便省事的选择。比如Y2mate、SaveFrom这类工具，无论你是安卓手机还是苹果手机，只需用自带的浏览器打开网站，把想要保存的YouTube视频链接粘贴进去，就可以直接选择视频格式和清晰度进行下载。整个过程无需安装任何额外软件，也不需要复杂的设置或注册账号。但我们需要提醒大家的是，这些YouTube在线下载网站通常会有不少弹窗广告，操作时要小心，避免点击到虚假下载按钮或跳转广告页面。
 
-#### 方法三：合租YouTube Premium会员
+### 方法三：合租YouTube Premium会员
 
 对于追求高画质、无广告和更官方体验的用户，可以选择通过“**<a href="https://wallvpn.com/go/nf-video/">银河录像局</a>**”合租YouTube Premium会员，然后用YouTube官方App直接进行离线下载。这种方式不仅更安全可靠，而且价格非常便宜（**每月仅需12元**），还能享受YouTube Premium会员专属的高清画质、后台播放和无广告体验。
 
