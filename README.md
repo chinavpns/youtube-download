@@ -60,7 +60,7 @@ OK，接下来我们将为大家系统介绍四种常用的YouTube视频下载�
 
 ## Youtube下载方法一：通过Youtube视频下载软件
 
-如果你需要批量、高质量地下载YouTube视频，使用专业的下载软件往往是最省心高效的方式。这类工具不仅支持更多格式和分辨率的选择，还能提供字幕下载、批量管理等实用功能。需要注意的是，由于政策原因，国内用户可能需要先<a href="https://chinavpns.github.io/">科学上网</a>，然后才能正常访问以下这些YouTube下载软件的官网。
+如果你需要批量、高质量地下载YouTube视频，使用专业的下载软件往往是最省心高效的方式。这类工具不仅支持更多格式和分辨率的选择，还能提供字幕下载、批量管理等实用功能。注意：由于政策原因，国内用户需要先<a href="https://chinavpns.github.io/">科学上网</a>，然后才能正常访问以下这些YouTube下载软件的官网。
 
 ### 1. <a href="https://wallvpn.com/go/4k-download/">4K Video Downloader</a>
 
