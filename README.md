@@ -330,7 +330,7 @@ gallery-dl是一款支持图片和视频批量下载的命令行工具，兼容Y
 
 * 检查网络连接问题
 
-当遇到下载YouTube视频速度慢的情况时，首要怀疑的就是网络连接。特别是在“<a href="https://chinavpns.github.io/">翻墙</a>”时，节点的选择非常关键。建议使用付费且稳定的<a href="https://github.com/chinavpns/chinavpns.github.io">中国VPN</a>，比如<a href="https://wallvpn.com/go/expressvpn/">ExpressVPN</a>等，并优先选择日本、韩国、新加坡这些离中国较近的节点，通常速度会更快。不要贪图免费VPN，因为速度和稳定性往往都不理想。如果遇到卡顿或速度不稳定，可以尝试更换节点，往往能立竿见影地提升速度。
+当遇到下载YouTube视频速度慢的情况时，首要怀疑的就是网络连接。特别是在“<a href="https://chinavpns.github.io/">翻墙</a>”时，节点的选择非常关键。建议使用付费且稳定的<a href="https://github.com/chinavpns/chinavpns.github.io">中国VPN</a>，比如<a href="https://github.com/chinavpns/expressvpn">ExpressVPN</a>等，并优先选择日本、韩国、新加坡这些离中国较近的节点，通常速度会更快。不要贪图免费VPN，因为速度和稳定性往往都不理想。如果遇到卡顿或速度不稳定，可以尝试更换节点，往往能立竿见影地提升速度。
 
 * 换个YTB下载工具
 
