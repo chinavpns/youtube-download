@@ -330,9 +330,9 @@ gallery-dl是一款支持图片和视频批量下载的命令行工具，兼容Y
 
 ### 方法一：使用专业的YouTube下载软件
 
-如果你是**Android安卓手机**用户，我们建议你直接选择“**<a href="https://wallvpn.com/go/4k-download/">4K Video Downloader</a>**”这款专业的YouTube视频下载软件。4K Video Downloader不仅支持多线程加速，可以快速下载高清视频，还支持下载整个播放列表和视频自带的字幕。而且该软件界面简洁明了，使用门槛低，适合需要频繁下载、对画质有要求的用户。
+如果你是**安卓手机**用户，我们建议你直接选择“**<a href="https://wallvpn.com/go/4k-download/">4K Video Downloader</a>**”这款专业的YouTube视频下载软件。4K Video Downloader不仅支持多线程加速，可以快速下载高清视频，还支持下载整个播放列表和视频自带的字幕。而且该软件界面简洁明了，使用门槛低，适合需要频繁下载、对画质有要求的用户。
 
-如果你是**iOS苹果手机**用户，那么可以尝试使用“Airy”这款专业的YouTube视频下载软件。Airy不仅提供专用的iOS客户端，而且针对YouTube视频下载做了优化，支持多种分辨率选择和字幕下载，使用体验也非常流畅。
+如果你是**苹果手机**用户，那么可以尝试使用“Airy”这款专业的YouTube视频下载软件。Airy不仅提供专用的iOS客户端，而且针对YouTube视频下载做了优化，支持多种分辨率选择和字幕下载，使用体验也非常流畅。
 
 **重要提示**：安卓手机用户若想从Google Play商店下载APP软件，需要先获取一个Google帐号。而中国大陆的苹果手机用户若想下载国外软件，则必须先获取一个**美区Apple ID帐号**（受政策限制）。如果你没有“Google帐号”或“美区Apple ID帐号”，可以通过“**<a href="https://wallvpn.com/go/nf-video/">银河录像局</a>**”这个平台直接购买一个现成的账号。
 
@@ -342,13 +342,13 @@ gallery-dl是一款支持图片和视频批量下载的命令行工具，兼容Y
 
 对于大多数只需偶尔下载YouTube视频的用户来说，在线下载网站是最为方便省事的选择。比如Y2mate、SaveFrom这类工具，无论你是安卓手机还是苹果手机，只需用自带的浏览器打开网站，把想要保存的YouTube视频链接粘贴进去，就可以直接选择视频格式和清晰度进行下载。整个过程无需安装任何额外软件，也不需要复杂的设置或注册账号。
 
-但我们需要提醒大家的是，这些YouTube在线下载网站通常会有不少弹窗广告，操作时要小心，避免点击到虚假下载按钮或跳转广告页面。
+注意：这些YouTube在线下载网站通常会有不少弹窗广告，操作时要小心，避免点击到虚假下载按钮或跳转广告页面。
 
 ### 方法三：合租YouTube Premium会员
 
 如果你需要经常下载YouTube视频，或者追求高画质、无广告和更官方的使用体验，我们建议你直接在手机上下载YouTube客户端，并通过“**<a href="https://wallvpn.com/go/nf-video/">银河录像局</a>**”合租YouTube Premium会员，然后使用YouTube官方App进行离线下载。这种方式不仅更加安全可靠，而且价格非常实惠（**每月仅需12元**），还能享受YouTube Premium会员专属的高清画质、后台播放和无广告体验。
 
-注意：中国大陆用户若想在手机上下载YouTube客户端，也需要先通过“**<a href="https://wallvpn.com/go/nf-video/">银河录像局</a>”获取一个“Google帐号”或“美区Apple ID帐号”！
+注意：中国大陆用户若想在手机上下载YouTube客户端，也需要先通过“<a href="https://wallvpn.com/go/nf-video/">银河录像局</a>”获取一个“Google帐号”或“美区Apple ID帐号”！
 
 ![Youtube视频下载-银河录像局-Youtube合租](https://raw.githubusercontent.com/chinavpns/youtube-download/refs/heads/main/image/Youtube%E8%A7%86%E9%A2%91%E4%B8%8B%E8%BD%BD-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-Youtube%E5%90%88%E7%A7%9F.png)
 
