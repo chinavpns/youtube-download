@@ -26,11 +26,11 @@ OK，以上三款便是目前为数不多能在中国大陆稳定使用的翻墙
 
 **重要提示（一）**：其实我们更推荐大家通过“**<a href="https://wallvpn.com/go/nf-video/">银河录像局</a>**”这个平台去合租YouTube会员（**每月仅需12.5元**），因为合租YouTube Premium会员不仅可以大幅降低会员费用，还能畅享无广告、高清视频播放和离线下载等多项专属权益。跟单独订阅YouTube Premium会员相比，合租YouTube会员的性价比非常高，非常适合既想省钱又追求高品质观看和下载体验的用户。
 
-![Youtube视频下载-银河录像局-Youtube合租](https://raw.githubusercontent.com/chinavpns/youtube-download/refs/heads/main/image/Youtube%E8%A7%86%E9%A2%91%E4%B8%8B%E8%BD%BD-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-Apple%20ID%E5%B8%90%E5%8F%B7.png)
+![Youtube视频下载-银河录像局-Youtube合租](https://raw.githubusercontent.com/chinavpns/youtube-download/refs/heads/main/image/Youtube%E8%A7%86%E9%A2%91%E4%B8%8B%E8%BD%BD-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-Youtube%E5%90%88%E7%A7%9F.png)
 
 **重要提示（二）**：如果你正身处中国大陆，并且想在iOS苹果手机或者Android安卓手机等移动设备上下载YouTube客户端的话，那么也可以通过“**<a href="https://wallvpn.com/go/nf-video/">银河录像局</a>**”这个平台购买一个**美区Apple ID账号**（15元/个）或**Google账号**（20元/个），这样就能自由下载YouTube iOS客户端和YouTube Android客户端了。
 
-![Youtube视频下载-银河录像局-Apple ID帐号](https://raw.githubusercontent.com/chinavpns/youtube-download/refs/heads/main/image/Youtube%E8%A7%86%E9%A2%91%E4%B8%8B%E8%BD%BD-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-Youtube%E5%90%88%E7%A7%9F.png)
+![Youtube视频下载-银河录像局-Apple ID帐号](https://raw.githubusercontent.com/chinavpns/youtube-download/refs/heads/main/image/Youtube%E8%A7%86%E9%A2%91%E4%B8%8B%E8%BD%BD-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-Apple%20ID%E5%B8%90%E5%8F%B7.png)
 
 <p align="center"><a href="https://wallvpn.com/go/nf-video/">立即访问银河录像局官网</a></p>
 
